@@ -1,6 +1,6 @@
 # ROTK XI Tools
 
-This repository will hold tools I make for Romance Of The Three Kingdoms XI, the PC version. The current tool I have ready to release is Vers Editor.
+This repository will hold tools I make for Romance Of The Three Kingdoms XI, the PC version. The current tool I have ready to release is Vers Editor. For now the tools I make only support the PC English version of ROTK XI, not the PUK version.
 
 # Vers Editor
 
