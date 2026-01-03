@@ -1,6 +1,6 @@
 # ROTK XI Tools
 
-This repository will hold tools I make for Romance Of The Three Kingdoms XI, the PC version. The current tool I have ready to release is Vers Editor. For now the tools I make only support the PC English version of ROTK XI, not the PUK version.
+This repository will hold tools I make for Romance Of The Three Kingdoms XI, the PC version. The current tool I have ready to release is Vers Editor. For now the tools I make only support the PC English version of ROTK XI, not the PUK version. A GA version of Vers Editor will be released at a later date, check the GA Section of the readme for more info
 
 # Vers Editor
 
@@ -23,3 +23,27 @@ You can mod away and switch between tabs, when you're finished just click the Cr
 <img width="1045" height="676" alt="ro9" src="https://github.com/user-attachments/assets/149b8346-e26a-4461-a4c9-5a083cd82f3e" />
 <img width="1043" height="676" alt="ro2" src="https://github.com/user-attachments/assets/29b0688c-b9ef-4db1-abc6-3c6863d2ba2b" />
 <img width="1041" height="671" alt="ro10" src="https://github.com/user-attachments/assets/e87cbf62-65ec-4403-8368-e0b863e03754" />
+
+# GA Edition, For Upcoming Version 0.7
+
+I was building a Genetic Algorithm for Romance Of The Three Kingdoms XI, the newest version implements a GA I made to help balance the scenarios for anybody who wants to use it.
+
+How it works in a simple explanation:
+
+Manually balancing gold, troops, and stats for 42 cities and 850 officers could take you days of trial and error. The GA does it while you do whatever.
+
+It ensures that custom officers aren't broken. No officers who are 100 in every stat, it forces them to have realistic strengths and weaknesses.
+
+It ensures that when a player starts a game they don't get crushed in 5 minutes because one AI city had 10 times more gold than everyone else.
+
+It sets up the world so that factions don't all hate each other instantly, allowing for a more strategic long term experience.
+
+The GA is like having a master strategist play test your scenario thousands of times. It automatically trims the fat, balances the resources, and ensures your mod is fun and fair to play.
+
+So in 1 sentence? It helps balance for you if you'd like to use it, you don't have to it's just a neat feature I thought I'd add.
+
+<img width="1485" height="693" alt="g1" src="https://github.com/user-attachments/assets/f9479580-5a15-43a4-af17-84c01639881a" />
+
+<img width="1348" height="676" alt="g2" src="https://github.com/user-attachments/assets/1deec113-8789-49b1-b22c-7e035e6f969a" />
+
+<img width="1418" height="693" alt="g3" src="https://github.com/user-attachments/assets/1324aa74-329f-4077-ad5d-1a54c2f11119" />
