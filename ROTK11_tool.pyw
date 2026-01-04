@@ -570,4 +570,3 @@ if __name__ == "__main__":
     app = ScenarioEditorApp(root)
     root.mainloop()
 
-
