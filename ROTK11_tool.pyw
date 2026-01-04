@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
-import struct, threading, queue
+import struct, threading, queue, os
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -569,4 +569,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = ScenarioEditorApp(root)
     root.mainloop()
+
 
